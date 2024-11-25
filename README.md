@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm **Prajjwal Shukla**  
 ### 🌥️ Cloud Engineer | 💡 Web Developer | 🌟 Tech Enthusiast  
 
-Welcome to my GitHub space—a hub for innovation, creativity, and code. I’m **Prajjwal Shukla**, a **Cloud Engineer** at **VIT Bhopal**, combining expertise in **cloud computing** with a strong foundation in **web development** to deliver impactful solutions that transform ideas into reality.  
+Welcome to my GitHub space—a hub for innovation, creativity, and code. I’m **Prajjwal Shukla**, a **Cloud Engineer** at **VIT Bhopal**, combining expertise in **cloud computing** with a strong foundation in **web development** and **Machine Learning** to deliver impactful solutions that transform ideas into reality.  
 
 ---
 
@@ -36,7 +36,6 @@ Welcome to my GitHub space—a hub for innovation, creativity, and code. I’m *
 - Proficient in building cloud infrastructures with:  
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  
   ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)  
-  ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)  
 
 #### **Other Tools**  
   `Docker` | `Kubernetes` | `Git` | `Figma` | `VS Code`  
@@ -46,7 +45,8 @@ Welcome to my GitHub space—a hub for innovation, creativity, and code. I’m *
 ### 🌟 **My Projects**  
 #### 1️⃣ [**Viloir**](https://viloir.web.app/index.html)  
 - 🎥 A **random video chat platform** exclusively for **college students**.  
-- 🌟 **Tech Stack**: React.js, Node.js, MongoDB, WebRTC.  
+- 🌟 **Tech Stack**: Vanilla.js, Firebase, WebRTC,etc.
+- -->**Link**: https://viloir.web.app/index.html 
 
 #### 2️⃣ [**Dynamic Portfolio Website**](#)  
 - 🌐 A modern portfolio showcasing projects and skills.  
@@ -64,10 +64,8 @@ Welcome to my GitHub space—a hub for innovation, creativity, and code. I’m *
 ---
 
 ### 📬 **Let’s Connect!**  
-- 🌍 **Portfolio**: [Your Portfolio Link](#)  
-- 💌 **Email**: prajjwal.shukla@example.com  
-- 🌐 **LinkedIn**: [Your LinkedIn Profile](#)  
-- 🐦 **Twitter**: [Your Twitter Profile](#)  
+- 💌 **Email**: prajjwal.shukla44@gmail.com  
+- 🌐 **LinkedIn**:https://www.linkedin.com/in/prajjwal-shukla-05b4a228b/ 
 
 ---
 
